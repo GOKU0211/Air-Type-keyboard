@@ -89,14 +89,20 @@ python airtype_keyboard.py
 
 ---
 
-## 👥 Team
+## ⚙️ setup
 
-**AirType Keyboard Team**
+run the following codes in either vs code terminal or powershell
+1. pip install opencv-python
+2. pip install opencv-contrib-python
+3. pip install pynput
+4.  Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+5.  venv\Scripts\Activate
+6.  pip install opencv-python cvzone mediapipe pynput numpy
+7. cd "<file location>"
+8. python "<filename>"
+9. to stop the simulation press "ctrl+c" in terminal
 
-* 124AX015
-* 124AX011
-* 124AX010
-* 124AX013
+
 
 ---
 
